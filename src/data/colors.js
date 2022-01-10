@@ -1,0 +1,7 @@
+const THEME = {
+	MAIN_COLOR: '#232939',
+	LIGHT_COLOR: '#3B4358',
+	YELLOW_COLOR: '#FADF51'
+}
+
+export default THEME
